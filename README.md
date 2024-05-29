@@ -21,7 +21,7 @@ Dataset link: https://github.com/darshilparmar/uber-etl-pipeline-data-engineerin
 Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
 
 ## Data Modeling :
-![image](https://github.com/ImranRiazChohan/END_TO_END-DATA-ENGINEERING-PROJECT-UBER-DATA-ANALYTICS/assets/48764517/ee9c556a-3003-4aea-8007-bf3d0eca4cec)
+![image](https://github.com/ImranRiazChohan/END_TO_END-DATA-ENGINEERING-PROJECT-UBER-DATA-ANALYTICS/assets/48764517/b93afce8-f7a4-4686-86e3-c0a5ebc51f4b)
 
 ## Reporting Dashboard
 ![Dashboard](https://github.com/ImranRiazChohan/END_TO_END-DATA-ENGINEERING-PROJECT-UBER-DATA-ANALYTICS/assets/48764517/7f07c077-f1b3-417f-b5e9-c6e96c2b146a)
